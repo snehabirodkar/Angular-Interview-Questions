@@ -1006,10 +1006,6 @@ Angular Universal is a server-side rendering module for Angular applications in 
  See 👉 **[Answer](https://www.fullstack.cafe/Angular)**
 
 
-## Q96: Do I need to bootstrap custom elements? ⭐⭐⭐⭐
-
- See 👉 **[Answer](https://www.fullstack.cafe/Angular)**
-
 
 ## Q97: What is the difference between pure and impure pipe? ⭐⭐⭐⭐
 
@@ -1022,11 +1018,6 @@ Angular Universal is a server-side rendering module for Angular applications in 
 
 
 ## Q99: Explain the purpose of Service Workers in Angular ⭐⭐⭐⭐
-
- See 👉 **[Answer](https://www.fullstack.cafe/Angular)**
-
-
-## Q100: Angular 9: What are some new features in Angular 9? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/Angular)**
 
