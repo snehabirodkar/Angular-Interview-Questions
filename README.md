@@ -178,33 +178,6 @@ You are a Rockstar in angular. You can teach other. You can lead a team of angul
 10. If you need to respond to two different Observable/Subject with one callback function, how would you do it? (ex: if you need to change the url through route parameters and with prev/next buttons).
 
 
-
-## Coding Test
-Sometimes interviewer gives real coding test. Most of us suck on those and feel ashamed of ourselves and then continue to work in the current job. I don't want you to saty in that miserable job. Hence, take the following coding challenges and master them. 
-
-### Fetch Data and Display User Profile
-
-This test has three level
-1. Level 1: I am giving you an api https://api.github.com/search/users?q=eric This api takes a query parameter name "q" and passes query string to server. Server returns bunch of users. Now I want you to create a input text box and button so that you can type anything on the text box and hit on the button to retrieve data from the given api. Upon retrieval display total_count and first 10 users in the search result. Detail instruction about this test is available [here](https://github.com/khan4019/github-profile-search)
-2. Level 2: Convert each user profile as a router link so that upon clicking on each user profile you will navigate to a route that has "login" property in the route. Pass user.login as route parameter. Create a separate component where you will read the route parameter and then fetch data for that user  by using this api https://api.github.com/users/eric . Please Notice that last part of this api is the user.login (the route parameter that you have passed). Finally display user image and few other information in the component
-3. Level 3: use any charting framework that you can find and then create a simple bar chart to display number of followers of first 10 users
-
-
-This coding test will judge your ability to use services, component, routing, data visualization, external module, observables, etc.
-
-[Sample code link coming soon] 
-
-### Persistent Todo List
-This test has three levels
-1. Level 1:  Implement a simple todo list where you can add items, mark as done
-2. Level 2: Now create few categories of todo list and make it persistence in the browser
-3. Level 3: Now use firebase (serverless database) to make todo list persistence across multiple devices
-
-This coding test will judge whether you can pass data and events between components. Also, whether you are leveraging directives and understand difference between component and directives.
-
-
-[Sample code link coming soon]
-
 ### Student Registration System
 This test has three levels
 1. Level-1: Design a system where students can login to register different courses 
