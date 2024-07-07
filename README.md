@@ -116,7 +116,6 @@ To be in the intermediate level, you have to build at least one medium sized ang
 10. How do you mock a service to inject in a unit test?
 
 
-
 ### Core Concepts Understandability Questions
 1. Tell me about feature module and shared module?
 2. What would you not put in a shared module?
@@ -177,16 +176,6 @@ You are a Rockstar in angular. You can teach other. You can lead a team of angul
 9. How would you make sure an api call that needs to be called only once but with multiple conditions? Example: if you need to get some data in multiple routes but, once you get it, you can reuse it in the routes that needs it, therefor no need to make another call to your backend apis.
 10. If you need to respond to two different Observable/Subject with one callback function, how would you do it? (ex: if you need to change the url through route parameters and with prev/next buttons).
 
-
-### Student Registration System
-This test has three levels
-1. Level-1: Design a system where students can login to register different courses 
-2. Level-2: Add a feature so that faculties on each course can view how many students registered on the courses
-3. Level-3: (I need a shower. will add text here after I clean up myself) 
-
-This coding test will judge your understanding of architecture for a large application. Your ability to think and implement module, lazy loading, asset management etc.
-
-[Sample code link coming soon]
 
 ## Side Things Related Questions
 
